@@ -30,7 +30,7 @@ class _MyGitHubState extends State<MyGitHub> {
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
-                          Spacer(
+                          Spacer( 
                             flex: 3,
                           ),
                           SizedBox(
