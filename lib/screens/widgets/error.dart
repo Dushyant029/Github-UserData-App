@@ -32,7 +32,7 @@ class MyErrorPage extends StatelessWidget {
                   color: Colors.white,
                   fontSize: 25,
                   fontWeight: FontWeight.w600,
-                  fontFamily: 'OpenSans',
+                  fontFamily: 'OpenSans', 
                 ),
               ),
               SizedBox(
