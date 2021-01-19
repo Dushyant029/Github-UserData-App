@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       title: 'GitHub-UserData',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        accentColor: Colors.transparent,
+        accentColor: Colors.transparent, 
       ),
       home: MyHomePage(),
     );
